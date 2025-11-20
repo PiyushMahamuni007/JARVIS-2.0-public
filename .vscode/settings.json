@@ -1,8 +1,0 @@
-{
-    "python.analysis.autoImportCompletions": true,
-    "cSpell.words": [
-        "chatbox",
-        "pyautogui",
-        "Siri"
-    ]
-}
